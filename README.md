@@ -23,13 +23,14 @@ A unique and interactive **developer portfolio website** styled to resemble a **
   - Vanilla JavaScript (typewriter effect, interactivity)
 
 ---
+## Overview
 
-Home                 → Learn about Smarti
-Skills               → View skillset
-Projects             → See project showcase
-Contact              → Get in touch
-clear                → Clear the terminal
-help                 → See all available commands
+- Home                 → Learn about Smarti
+- Skills               → View skillset
+- Projects             → See project showcase
+- Contact              → Get in touch
+- Clear                → Clear the terminal
+- Help                 → See all available commands
 
 
 
